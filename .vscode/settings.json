@@ -1,0 +1,21 @@
+{
+  "detectedConfig": {
+    "typescript": true,
+    "naming": "Pascal Case",
+    "unit": "px",
+    "framework": "nextjs",
+    "styling": "Tailwind"
+  },
+  "locofyConfig": {
+    "project": "Playground File (Copy) - 2",
+    "id": "65fd76ac202246b8f973990a",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\omkar\\Downloads\\Playground File (Copy) - 2\\src\\components",
+    "screensPath": "c:\\Users\\omkar\\Downloads\\Playground File (Copy) - 2\\pages"
+  }
+}
